@@ -4,7 +4,7 @@
 
 The Job today is to create this index page
 
-<img src="" />
+<img src="/students_index.png" />
 
 This will involve:
 * Html Table tags
