@@ -6,6 +6,8 @@ The Job today is to create this index page
 
 <img src="/students_index.png" />
 
+This will cover the "ReadAll" functionallity of the CRUD operations.    
+
 This will involve:
 * Html Table tags
 * Styling through CSS
