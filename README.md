@@ -17,4 +17,6 @@ This will involve:
 * Recieving and displaying data in the View using Thymeleaf.
 * Getting a deeper understanding of the MVC architecture pattern
 
+## Exercises
 
+* [Create a Course page]()
