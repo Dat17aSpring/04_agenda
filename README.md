@@ -13,6 +13,8 @@ This will involve:
 * Styling through CSS
   * In both the HTML and CSS case, you will learn through the **LTS method** _(Learning through stealing)_ 
 * Creating a **Student.java** class in the **Model layer** of the application
-* Sending data from the **Controller** to the **View**, making use of the **Model** layer in our application (MVC).
+* Sending data from the Controller by adding it to the "Model Object".
+* Recieving and displaying data in the View using Thymeleaf.
+* Getting a deeper understanding of the MVC architecture pattern
 
 
