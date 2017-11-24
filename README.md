@@ -1,2 +1,1 @@
-# 06_agenda
-CRUD med Controller, View og Model
+# #6 CRUD med Controller, View og Model (MVC)
