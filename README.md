@@ -1,1 +1,1 @@
-# #6 CRUD med Controller, View og Model (MVC)
+# #6 CRUD with Controller, View and Model (MVC)
