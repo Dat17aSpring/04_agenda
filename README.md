@@ -2,10 +2,10 @@
 
 ## The Job today is to create these pages
 ### Create    
-<img src="/students_index.png" />    
+<img src="/create.png" />    
 
 ### Details (READ one student)    
-<img src="/students_index.png" />    
+<img src="/details.png" />    
 
 ### Update    
 <img src="/students_index.png" />    
