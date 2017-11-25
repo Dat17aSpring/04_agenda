@@ -1,14 +1,17 @@
 # #6 CRUD with Controller, View and Model (MVC)
 
 ## The Job today is to create these pages
+### Create    
 
-### Create
 <img src="/students_index.png" />
-### Details (READ one student)
+### Details (READ one student)    
+
 <img src="/students_index.png" />
-### Update
+### Update    
+
 <img src="/students_index.png" />
-### Delete
+### Delete    
+
 <img src="/students_index.png" />
 
 This will involve:
