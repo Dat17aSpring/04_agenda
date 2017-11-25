@@ -1,12 +1,15 @@
 # #6 CRUD with Controller, View and Model (MVC)
 
-## What we will cover today
+## The Job today is to create these pages
 
-The Job today is to create this index page
-
+### Create
 <img src="/students_index.png" />
-
-This will cover the "Read" functionallity of the CRUD operations.    
+### Details (READ one student)
+<img src="/students_index.png" />
+### Update
+<img src="/students_index.png" />
+### Delete
+<img src="/students_index.png" />
 
 This will involve:
 * Html Table tags
