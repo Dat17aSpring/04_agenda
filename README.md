@@ -17,6 +17,11 @@ This will involve:
 * Recieving and displaying data in the View using Thymeleaf.
 * Getting a deeper understanding of the MVC architecture pattern
 
+## Tutorial
+This will be equevalent to what i show you in class.
+
+* [Creating a Students list page]()
+
 ## Exercises
 
 * [Create a Course page](https://github.com/StudentsAdministration/06_exercise_create_courses/blob/master/README.md)
