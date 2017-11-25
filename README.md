@@ -19,4 +19,4 @@ This will involve:
 
 ## Exercises
 
-* [Create a Course page]()
+* [Create a Course page](https://github.com/StudentsAdministration/06_exercise_create_courses/blob/master/README.md)
