@@ -21,6 +21,8 @@ This will involve:
 * Sending data from the Controller by adding it to the "Model Object".
 * Recieving and displaying data in the View using Thymeleaf.
 * Sending data from the html page back to the Controller.
+* Routing ```` GetMapping() and PostMapping() ````   
+
 
 ## Literature
 This will be equevalent to what i show you in class.
