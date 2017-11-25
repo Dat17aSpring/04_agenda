@@ -20,7 +20,7 @@ This will involve:
 ## Tutorial
 This will be equevalent to what i show you in class.
 
-* [Creating a Students list page]()
+* [Creating a Students list page](https://github.com/StudentsAdministration/06_tutorial_students_list)
 
 ## Exercises
 
