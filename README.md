@@ -2,17 +2,17 @@
 
 ## The Job today is to create these pages
 ### Create    
+<img src="/students_index.png" />    
 
-<img src="/students_index.png" />
 ### Details (READ one student)    
+<img src="/students_index.png" />    
 
-<img src="/students_index.png" />
 ### Update    
+<img src="/students_index.png" />    
 
-<img src="/students_index.png" />
 ### Delete    
+<img src="/students_index.png" />    
 
-<img src="/students_index.png" />
 
 This will involve:
 * Html Table tags
