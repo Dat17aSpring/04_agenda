@@ -15,13 +15,12 @@
 
 
 This will involve:
-* Html Table tags
+* Html tags including the Form Tag
 * Styling through CSS
   * In both the HTML and CSS case, you will learn through the **LTS method** _(Learning through stealing)_ 
-* Creating a **Student.java** class in the **Model layer** of the application
 * Sending data from the Controller by adding it to the "Model Object".
 * Recieving and displaying data in the View using Thymeleaf.
-* Getting a deeper understanding of the MVC architecture pattern
+* Sending data from the html page back to the Controller.
 
 ## Literature
 This will be equevalent to what i show you in class.
@@ -30,4 +29,4 @@ This will be equevalent to what i show you in class.
 
 ## Exercises
 
-* [Create a Course page](https://github.com/StudentsAdministration/06_exercise_create_courses/blob/master/README.md)
+* [Create an Edit page](https://github.com/StudentsAdministration/06_exercise_edit_page/blob/master/README.md)
