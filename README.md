@@ -11,7 +11,7 @@
 <img src="/students_index.png" />    
 
 ### Delete    
-<img src="/students_index.png" />    
+<img src="/delete.png" />    
 
 
 This will involve:
