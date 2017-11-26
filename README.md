@@ -1,5 +1,8 @@
 # #6 CRUD with Controller, View and Model (MVC)
 
+## Last time we created this page
+<img src="/students_index.png" />      
+
 ## The Job today is to create these pages
 ### Create    
 <img src="/create.png" />    
