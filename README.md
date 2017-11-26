@@ -11,7 +11,7 @@
 <img src="/details.png" />    
 
 ### Update    
-<img src="/students_index.png" />    
+<img src="/update.png" />    
 
 ### Delete    
 <img src="/delete.png" />    
