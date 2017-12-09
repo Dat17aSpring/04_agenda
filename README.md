@@ -30,7 +30,7 @@ This will involve:
 ## Literature
 This will be equevalent to what i show you in class.
 
-* [Creating a Students list page](https://github.com/StudentsAdministration/06_tutorial_students_list)
+_**TODO: CREATE AN CREATE, DETAILS, UPDATE DELETE TUTORIAL**_
 
 ## Exercises
 
