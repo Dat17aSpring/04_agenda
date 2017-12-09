@@ -31,7 +31,7 @@ This will involve:
 This will be equevalent to what i show you in class.
 
 * [Create Student](https://github.com/StudentsAdministration/06_tutorial_create_student)
-* [Details]()
+* [Details](https://github.com/StudentsAdministration/06_tutorial_details_student)
 * [Delete]()
 
 _**TODO: DETAILS, UPDATE, DELETE TUTORIAL**_
