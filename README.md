@@ -30,7 +30,7 @@ This will involve:
 ## Literature
 This will be equevalent to what i show you in class.
 
-* [Create Student](https://github.com/StudentsAdministration/06_tutorial_crreate_student/blob/master/README.md)
+* [Create Student](https://github.com/StudentsAdministration/06_tutorial_create_student)
 * [Details]()
 * [Delete]()
 
