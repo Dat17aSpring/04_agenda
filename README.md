@@ -30,7 +30,11 @@ This will involve:
 ## Literature
 This will be equevalent to what i show you in class.
 
-_**TODO: CREATE AN CREATE, DETAILS, UPDATE DELETE TUTORIAL**_
+* [Create Student](https://github.com/StudentsAdministration/06_tutorial_crreate_student/blob/master/README.md)
+* [Details]()
+* [Delete]()
+
+_**TODO: DETAILS, UPDATE, DELETE TUTORIAL**_
 
 ## Exercises
 
