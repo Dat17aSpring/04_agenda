@@ -32,10 +32,11 @@ This will be equevalent to what i show you in class.
 
 * [Create Student](https://github.com/StudentsAdministration/06_tutorial_create_student)
 * [Details](https://github.com/StudentsAdministration/06_tutorial_details_student)
-* [Delete]()
-
-_**TODO: DETAILS, UPDATE, DELETE TUTORIAL**_
+* [Delete](https://github.com/StudentsAdministration/06_tutorial_delete_student/blob/master/README.md)
 
 ## Exercises
 
 * [Create an UPDATE page](https://github.com/StudentsAdministration/06_exercise_update_page/blob/master/README.md)
+
+
+_<div align="right">&copy; clbo@kea.dk</div>_
