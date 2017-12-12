@@ -24,7 +24,8 @@ This will involve:
 * Sending data from the Controller by adding it to the "Model Object".
 * Recieving and displaying data in the View using Thymeleaf.
 * Sending data from the html page back to the Controller.
-* Routing ```` GetMapping() and PostMapping() ````   
+* Routing ```` GetMapping() and PostMapping() ````     
+* Working with dates in the view and in the model
 
 
 ## Literature
@@ -33,6 +34,7 @@ This will be equevalent to what i show you in class.
 * [Create Student](https://github.com/StudentsAdministration/06_tutorial_create_student)
 * [Details](https://github.com/StudentsAdministration/06_tutorial_details_student)
 * [Delete](https://github.com/StudentsAdministration/06_tutorial_delete_student/blob/master/README.md)
+* [Dateformat in views and model]()
 
 ## Exercises
 
