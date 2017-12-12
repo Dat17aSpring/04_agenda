@@ -34,7 +34,7 @@ This will be equevalent to what i show you in class.
 * [Create Student](https://github.com/StudentsAdministration/06_tutorial_create_student)
 * [Details](https://github.com/StudentsAdministration/06_tutorial_details_student)
 * [Delete](https://github.com/StudentsAdministration/06_tutorial_delete_student/blob/master/README.md)
-* [Dateformat in views and model]()
+* [Dateformat in views and model](https://github.com/StudentsAdministration/06_dateformating)
 
 ## Exercises
 
