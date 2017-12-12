@@ -36,7 +36,7 @@ This will be equevalent to what i show you in class.
 
 ## Exercises
 
-* [Create an UPDATE page](https://github.com/StudentsAdministration/06_exercise_update_page/blob/master/README.md)
+* [Create an UPDATE page](https://github.com/StudentsAdministration/06_exercise_update_student)
 
 
 _<div align="right">&copy; clbo@kea.dk</div>_
