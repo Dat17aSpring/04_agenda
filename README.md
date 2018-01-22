@@ -1,23 +1,29 @@
 # #6 CRUD with Controller, View and Model (MVC)
 
 ## Last time we created this page
-<img src="/students_index.png" />      
+
+![](./students_index.png)      
 
 ## The Job today is to create these pages
-### Create    
-<img src="/create.png" />    
+### Create  
+
+![](./create.png)     
 
 ### Details (READ one student)    
-<img src="/details.png" />    
+
+![](./details.png)   
 
 ### Update    
-<img src="/update.png" />    
+
+![](./update.png)     
 
 ### Delete    
-<img src="/delete.png" />    
+
+![](./delete.png)      
 
 
 This will involve:
+
 * Html tags including the Form Tag
 * Styling through CSS
   * In both the HTML and CSS case, you will learn through the **LTS method** _(Learning through stealing)_ 
