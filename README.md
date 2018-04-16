@@ -37,14 +37,14 @@ This will involve:
 ## Literature
 This will be equevalent to what i show you in class.
 
-* [Create Student](https://github.com/dat17i/04_tutorial_create_student)
-* [Details](https://github.com/dat17i/04_tutorial_details_student)
-* [Delete](https://github.com/dat17i/04_tutorial_delete_student/blob/master/README.md)
-* [Dateformat in views and model](https://github.com/dat17i/06_dateformating)
+* [Create Student](https://github.com/Dat17aSpring/04_tutorial_create_student)
+* [Details](https://github.com/Dat17aSpring/04_tutorial_details_student)
+* [Delete](https://github.com/Dat17aSpring/04_tutorial_delete_student/blob/master/README.md)
+<!--* [Dateformat in views and model](https://github.com/dat17i/06_dateformating)-->
 
 ## Exercises
 
-* [Create an UPDATE page](https://github.com/dat17i/04_exercise_update_student)
+* [Create an UPDATE page](https://github.com/Dat17aSpring/04_exercise_update_student)
 
 
 _<div align="right">&copy; clbo@kea.dk</div>_
